@@ -4,7 +4,7 @@ import React from 'react'
 const Appname = () => {
   return (
     <>
-    <h1>Todo React App</h1>
+    <h1 className='text'>Todo React App</h1>
     </>
   )
 }
